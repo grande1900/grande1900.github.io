@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto Slab");
+body {
+	font-family: 'Roboto Slab';font-size: 16px;
+}
+.TR {
+	color: #802020;
+	font-weight: bold;
+}
+.IT {
+	color: #208020;
+	font-weight: bold;
+}
