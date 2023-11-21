@@ -54,6 +54,9 @@
      inkscape:window-maximized="1" />
   <defs
      id="defs4">
+    <style type="text/css">
+    @import url("https://fonts.googleapis.com/css?family=Montserrat");
+    </style>
     <linearGradient
        id="linearGradient25">
       <stop
