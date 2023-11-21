@@ -1,12 +1,20 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto Slab");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
 body {
-	font-family: 'Roboto Slab';font-size: 16px;
+	font-family: 'Montserrat';
+	font-size: 16px;
+	background-color: #202020;
+	color: WhiteSmoke;
 }
-.TR {
-	color: #802020;
+hr {
+	
+	margin-top: 1ex;
+	margin-bottom: 0.5ex;
+}
+.Red {
+	color: DarkRed;
 	font-weight: bold;
 }
-.IT {
-	color: #208020;
+.Green {
+	color: Green;
 	font-weight: bold;
 }
